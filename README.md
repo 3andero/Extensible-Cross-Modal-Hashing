@@ -1,6 +1,6 @@
 # Extensible Cross-Modal Hashing
 
-Here is the portal page for my paper.
+Here is the portal page of my paper.
 
 ## Paper
 
